@@ -13,52 +13,52 @@ function animalsound(name){
         const sound =[
             {
                 name:"Dog",
-                soundname:"/sound/dog.wav"
+                soundname:"sound/dog.wav"
         
            },
            {
                 name:"Cat",
-                soundname:"/sound/cat.wav"
+                soundname:"sound/cat.wav"
         
            },
            {
                 name:"Hen",
-                soundname:"/sound/chicken.mp3"
+                soundname:"sound/chicken.mp3"
         
            },
            {
                 name:"Dove",
-                soundname:"/sound/dove.mp3"
+                soundname:"sound/dove.mp3"
         
            },
            {
                 name:"Bat",
-                soundname:"/sound/Bat.mp3"
+                soundname:"sound/Bat.mp3"
         
            },
            {
                 name:"Duck",
-                soundname:"/sound/duck.mp3"
+                soundname:"sound/duck.mp3"
         
            },
            {
                 name:"Lion",
-                soundname:"/sound/Lion.mp3"
+                soundname:"sound/Lion.mp3"
         
            },
            {
                 name:"Wolf",
-                soundname:"/sound/wolf.mp3"
+                soundname:"sound/wolf.mp3"
         
            },
            {
                 name:"Elephant",
-                soundname:"/sound/elephant.mp3"
+                soundname:"sound/elephant.mp3"
         
            },
            {
                 name:"Bee",
-                soundname:"/sound/bee.mp3"
+                soundname:"sound/bee.mp3"
         
            },
            {
@@ -68,7 +68,7 @@ function animalsound(name){
            },
            {
                 name:"Horse",
-                soundname:"/sound/horse.mp3"
+                soundname:"sound/horse.mp3"
         
            },
         ];
